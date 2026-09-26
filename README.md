@@ -14,6 +14,7 @@
 
 **Program:** Bachelor of Science in Information Technology
 
+---
 
 ## About the Project
 
@@ -21,6 +22,7 @@ This project is a personal Curriculum Vitae (CV) webpage created as part of the 
 
 The website presents my personal introduction, educational background, skills, goals, and contact information in a simple and responsive web design.
 
+---
 
 ## Technologies Used
 
@@ -28,6 +30,7 @@ The website presents my personal introduction, educational background, skills, g
 - CSS3
 - JavaScript
 
+---
 
 ## Features
 
@@ -41,6 +44,7 @@ The website presents my personal introduction, educational background, skills, g
 - Email contact button
 - Print / Save CV function
 
+---
 
 ## Skills
 
@@ -49,6 +53,7 @@ The website presents my personal introduction, educational background, skills, g
 - JavaScript
 - Communication
 
+---
 
 ## Education
 
@@ -58,11 +63,13 @@ Bachelor of Science in Information Technology
 
 4th Year — BSIT 4-B
 
+---
 
 ## Contact
 
 **Email:** aguirre.carlkhian@dnsc.edu.ph
 
+---
 
 ## Author
 
